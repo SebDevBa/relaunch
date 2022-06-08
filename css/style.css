@@ -2645,6 +2645,15 @@ ul.minicart .cart-price .new {
     background-size: cover;
     padding: 110px 0 90px;
 }
+
+.same-bg {
+    background-color: #212026;
+}
+
+.contact-bg {
+    background-color: #131418;
+}
+
 .third-team-content {
     position: relative;
     padding: 20px 50px;
